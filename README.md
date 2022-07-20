@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Suhejb A passionate software developer from Kosovo kosovo</h1>
-<!-- <h3 align="center">A passionate software developer from Kosovo 🇽🇰</h3> -->
+<h1 align="center">Hi, I'm Suhejb</h1>
 
 
 - 🔭 I’m currently working on [TestbenchCS](https://www.testbench.com/)
